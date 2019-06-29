@@ -1,0 +1,31 @@
+C:/Users/Santi/Documents/UNIVERSIDAD/4 Cuarto/ICI/Practicas/Sesion8/ICI-S8/ICI-S8-Paso3/ICI-S8-Paso1/obj/Debug/ICI-S8-Paso3.csprojResolveAssemblyReference.cache
+C:/Users/Santi/Documents/UNIVERSIDAD/4 Cuarto/ICI/Practicas/Sesion8/ICI-S8/ICI-S8-Paso3/ICI-S8-Paso1/obj/Debug/ICI_S8_Paso1.Form1.resources
+C:/Users/Santi/Documents/UNIVERSIDAD/4 Cuarto/ICI/Practicas/Sesion8/ICI-S8/ICI-S8-Paso3/ICI-S8-Paso1/obj/Debug/ICI_S8_Paso1.Properties.Resources.resources
+C:/Users/Santi/Documents/UNIVERSIDAD/4 Cuarto/ICI/Practicas/Sesion8/ICI-S8/ICI-S8-Paso3/ICI-S8-Paso1/obj/Debug/ICI-S8-Paso3.csproj.GenerateResource.Cache
+C:/Users/Santi/Documents/UNIVERSIDAD/4 Cuarto/ICI/Practicas/Sesion8/ICI-S8/ICI-S8-Paso3/ICI-S8-Paso1/obj/Debug/ICI-S8-Paso3.csproj.CoreCompileInputs.cache
+C:/Users/Santi/Documents/UNIVERSIDAD/4 Cuarto/ICI/Practicas/Sesion8/ICI-S8/ICI-S8-Paso3/ICI-S8-Paso1/obj/Debug/ICI-S8-Paso1.exe
+C:/Users/Santi/Documents/UNIVERSIDAD/4 Cuarto/ICI/Practicas/Sesion8/ICI-S8/ICI-S8-Paso3/ICI-S8-Paso1/obj/Debug/ICI-S8-Paso1.pdb
+C:/Users/Santi/Documents/UNIVERSIDAD/4 Cuarto/ICI/Practicas/Sesion8/ICI-S8/ICI-S8-Paso3/ICI-S8-Paso1/bin/Debug/ICI-S8-Paso1.exe.config
+C:/Users/Santi/Documents/UNIVERSIDAD/4 Cuarto/ICI/Practicas/Sesion8/ICI-S8/ICI-S8-Paso3/ICI-S8-Paso1/bin/Debug/ICI-S8-Paso1.exe
+C:/Users/Santi/Documents/UNIVERSIDAD/4 Cuarto/ICI/Practicas/Sesion8/ICI-S8/ICI-S8-Paso3/ICI-S8-Paso1/bin/Debug/ICI-S8-Paso1.pdb
+C:/Users/Santi/Documents/UNIVERSIDAD/4 Cuarto/ICI/Practicas/Trabajo_Final_Placa_B/VISUAL_STUDIO/ICI-S8-Paso1/bin/Debug/ICI-S8-Paso1.exe.config
+C:/Users/Santi/Documents/UNIVERSIDAD/4 Cuarto/ICI/Practicas/Trabajo_Final_Placa_B/VISUAL_STUDIO/ICI-S8-Paso1/bin/Debug/ICI-S8-Paso1.exe
+C:/Users/Santi/Documents/UNIVERSIDAD/4 Cuarto/ICI/Practicas/Trabajo_Final_Placa_B/VISUAL_STUDIO/ICI-S8-Paso1/bin/Debug/ICI-S8-Paso1.pdb
+C:/Users/Santi/Documents/UNIVERSIDAD/4 Cuarto/ICI/Practicas/Trabajo_Final_Placa_B/VISUAL_STUDIO/ICI-S8-Paso1/obj/Debug/ICI-S8-Paso3.csprojResolveAssemblyReference.cache
+C:/Users/Santi/Documents/UNIVERSIDAD/4 Cuarto/ICI/Practicas/Trabajo_Final_Placa_B/VISUAL_STUDIO/ICI-S8-Paso1/obj/Debug/ICI_S8_Paso1.Form1.resources
+C:/Users/Santi/Documents/UNIVERSIDAD/4 Cuarto/ICI/Practicas/Trabajo_Final_Placa_B/VISUAL_STUDIO/ICI-S8-Paso1/obj/Debug/ICI_S8_Paso1.Properties.Resources.resources
+C:/Users/Santi/Documents/UNIVERSIDAD/4 Cuarto/ICI/Practicas/Trabajo_Final_Placa_B/VISUAL_STUDIO/ICI-S8-Paso1/obj/Debug/ICI-S8-Paso3.csproj.GenerateResource.Cache
+C:/Users/Santi/Documents/UNIVERSIDAD/4 Cuarto/ICI/Practicas/Trabajo_Final_Placa_B/VISUAL_STUDIO/ICI-S8-Paso1/obj/Debug/ICI-S8-Paso3.csproj.CoreCompileInputs.cache
+C:/Users/Santi/Documents/UNIVERSIDAD/4 Cuarto/ICI/Practicas/Trabajo_Final_Placa_B/VISUAL_STUDIO/ICI-S8-Paso1/obj/Debug/ICI-S8-Paso1.exe
+C:/Users/Santi/Documents/UNIVERSIDAD/4 Cuarto/ICI/Practicas/Trabajo_Final_Placa_B/VISUAL_STUDIO/ICI-S8-Paso1/obj/Debug/ICI-S8-Paso1.pdb
+/Users/santi/Desktop/Trabajo_Final_Santiago_Fernandez_Scagliusi/Trabajo_Final_Santiago_Fernandez_Scagliusi/Trabajo_Final_Placa_B/VISUAL_STUDIO/ICI-S8-Paso1/bin/Debug/ICI-S8-Paso1.exe.config
+/Users/santi/Desktop/Trabajo_Final_Santiago_Fernandez_Scagliusi/Trabajo_Final_Santiago_Fernandez_Scagliusi/Trabajo_Final_Placa_B/VISUAL_STUDIO/ICI-S8-Paso1/bin/Debug/ICI-S8-Paso1.exe
+/Users/santi/Desktop/Trabajo_Final_Santiago_Fernandez_Scagliusi/Trabajo_Final_Santiago_Fernandez_Scagliusi/Trabajo_Final_Placa_B/VISUAL_STUDIO/ICI-S8-Paso1/bin/Debug/ICI-S8-Paso1.pdb
+/Users/santi/Desktop/Trabajo_Final_Santiago_Fernandez_Scagliusi/Trabajo_Final_Santiago_Fernandez_Scagliusi/Trabajo_Final_Placa_B/VISUAL_STUDIO/ICI-S8-Paso1/obj/Debug/ICI-S8-Paso3.csprojResolveAssemblyReference.cache
+/Users/santi/Desktop/Trabajo_Final_Santiago_Fernandez_Scagliusi/Trabajo_Final_Santiago_Fernandez_Scagliusi/Trabajo_Final_Placa_B/VISUAL_STUDIO/ICI-S8-Paso1/obj/Debug/ICI-S8-Paso3.csproj.ICI-S8-Paso1.exe.config
+/Users/santi/Desktop/Trabajo_Final_Santiago_Fernandez_Scagliusi/Trabajo_Final_Santiago_Fernandez_Scagliusi/Trabajo_Final_Placa_B/VISUAL_STUDIO/ICI-S8-Paso1/obj/Debug/ICI_S8_Paso1.Form1.resources
+/Users/santi/Desktop/Trabajo_Final_Santiago_Fernandez_Scagliusi/Trabajo_Final_Santiago_Fernandez_Scagliusi/Trabajo_Final_Placa_B/VISUAL_STUDIO/ICI-S8-Paso1/obj/Debug/ICI_S8_Paso1.Properties.Resources.resources
+/Users/santi/Desktop/Trabajo_Final_Santiago_Fernandez_Scagliusi/Trabajo_Final_Santiago_Fernandez_Scagliusi/Trabajo_Final_Placa_B/VISUAL_STUDIO/ICI-S8-Paso1/obj/Debug/ICI-S8-Paso3.csproj.GenerateResource.Cache
+/Users/santi/Desktop/Trabajo_Final_Santiago_Fernandez_Scagliusi/Trabajo_Final_Santiago_Fernandez_Scagliusi/Trabajo_Final_Placa_B/VISUAL_STUDIO/ICI-S8-Paso1/obj/Debug/ICI-S8-Paso3.csproj.CoreCompileInputs.cache
+/Users/santi/Desktop/Trabajo_Final_Santiago_Fernandez_Scagliusi/Trabajo_Final_Santiago_Fernandez_Scagliusi/Trabajo_Final_Placa_B/VISUAL_STUDIO/ICI-S8-Paso1/obj/Debug/ICI-S8-Paso1.exe
+/Users/santi/Desktop/Trabajo_Final_Santiago_Fernandez_Scagliusi/Trabajo_Final_Santiago_Fernandez_Scagliusi/Trabajo_Final_Placa_B/VISUAL_STUDIO/ICI-S8-Paso1/obj/Debug/ICI-S8-Paso1.pdb
