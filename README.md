@@ -4,5 +4,5 @@
 - Integrated CAN bus to communicate with other STM32 by using the MCP2515 shield.
 
 <p align="center">
-<img title="GUI Controlled Cooling System" src="GUI_screenshot.png" alt="GUI Controlled Cooling System"></center>
+<img title="GUI Controlled Cooling System" src="GUI_screenshot.PNG" alt="GUI Controlled Cooling System"></center>
 </p>
